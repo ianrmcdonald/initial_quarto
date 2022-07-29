@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Quarto Website",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n4 ^ 3\n\n[1] 64"
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n4 ^ 3\n\n[1] 64\n\n2 ^ 3\n\n[1] 8"
   },
   {
     "objectID": "about.html",
